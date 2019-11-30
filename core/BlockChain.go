@@ -1,4 +1,4 @@
-package block
+package core
 
 type Blockchain struct {
 	Blocks []*Block
